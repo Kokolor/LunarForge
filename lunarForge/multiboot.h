@@ -19,11 +19,6 @@
  *  IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-// Lunar's definitions
-typedef unsigned char lunar_uint8_t;
-typedef unsigned short lunar_uint16_t;
-typedef unsigned int lunar_uint32_t;
-
 #ifndef MULTIBOOT_HEADER
 #define MULTIBOOT_HEADER 1
 

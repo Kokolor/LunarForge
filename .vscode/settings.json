@@ -13,7 +13,11 @@
         "tuple": "cpp",
         "type_traits": "cpp",
         "utility": "cpp",
-        "compare": "cpp"
+        "compare": "cpp",
+        "complex": "cpp",
+        "*.tcc": "cpp",
+        "ostream": "cpp",
+        "string": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
